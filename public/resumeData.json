@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name": "Aqib Hussain Shah",
+    "occupation": "Javascript Developer",
+    "description": "I am a passionate Full Stack Javascript Developer. I build projects using MERN Stack.",
+    "image": "ME.jpg",
+    "bio": "My name is Aqib Hussain Shah, I'm a Full Stack Javascript Developer. Currently I am a final year Computer Science student at IBA Karachi. ",
+    "contactmessage": "My contact details are given below.",
+    "email": "aqib72751@gmail.com",
+    "phone": "03040646559",
+    "address": {
+      "street": "IBA Boys Hostel",
+      "city": "Karachi",
+      "state": "Sindh",
+      "zip": "75300"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/aqibhussain.shah.52",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aqib-hussain-shah-439234155/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/aqib72751",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "IBA Karachi",
+        "degree": "BS in Computer Science",
+        "graduated": "August 2017 - present",
+        "description": "Graduating in 2021"
+      }
+    ],
+    "work": [
+      {
+        "company": "State Bank of Pakistan",
+        "title": "Research Associate",
+        "years": "April 2018 - June 2018",
+        "description": "Conducted telephonic surveys."
+      },
+      {
+        "company": "The Citizen Foundation, Karachi",
+        "title": "Teacher",
+        "years": "June 2018 - August 2018",
+        "description": "Taught Math and English to 30 students."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "40%"
+      },
+      {
+        "name": "Javascript",
+        "level": "60%"
+      },
+      {
+        "name": "REST API",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp frontend built with React",
+        "url": "https://whatsapp-mern-54452.firebaseapp.com/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Built with MERN Stack",
+        "url": "https://challenge-31507.web.app/"
+      },
+      {
+        "title": "News Application",
+        "category": "React voice assisted news app",
+        "url": "https://alan-news-application.web.app/"
+      }
+    ]
+  }
+}
